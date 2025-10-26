@@ -293,7 +293,7 @@ Please use the [GitHub Issues](https://github.com/ijazabdullah127/pokedex-pro/is
 ---
 
 <div align="center">
-  <p>Made with ❤️ for Pokémon trainers everywhere</p>
+  <p>Made with ❤️ for Pokémon trainers everywhere. Star ⭐ this repo Thanks</p>
   <p>
     <a href="#top">Back to Top ⬆️</a>
   </p>
