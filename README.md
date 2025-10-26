@@ -286,7 +286,7 @@ Please use the [GitHub Issues](https://github.com/ijazabdullah127/pokedex-pro/is
 
 ## 📞 Contact
 
-**Developer**: Sharon Delya  
+**Developer**: Abdullah Ijaz
 **GitHub**: [@ijazabdullah127](https://github.com/ijazabdullah127)  
 **Project Link**: [https://github.com/ijazabdullah127/pokedex-pro](https://github.com/ijazabdullah127/pokedex-pro)
 
